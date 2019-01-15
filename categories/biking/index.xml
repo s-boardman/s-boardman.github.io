@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biking on Simon Boardman</title>
+    <link>http://www.sboardman.co.uk/categories/biking/</link>
+    <description>Recent content in Biking on Simon Boardman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.sboardman.co.uk/categories/biking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dirty One Thirty 2018</title>
+      <link>http://www.sboardman.co.uk/dirty-one-thirty-2018/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/dirty-one-thirty-2018/</guid>
+      <description>My account of the Dirty One Thirty (Diddy Dirty Reiver) from 21-04-2018.
+I&amp;rsquo;ve wanted to do some proper gravel grinding for ages. This seemed like the perfect opportunity to chase some big skies and long gravel roads as well as exploring a new part of the UK.
+{% include image.html file=&amp;ldquo;../assets/images/20180421_071755.png&amp;rdquo; description=&amp;ldquo;Awaiting the start&amp;rdquo; %}
+Training did not go as planned, and there was a vague plan. Thanks to the extended period of inclement weather knocking out several weekends, I only managed four rides which could generously qualify as training and so had to hope that my ability to feed well would be the main driver for getting me round what promised to be a challenging course.</description>
+    </item>
+    
+    <item>
+      <title>Wild Boar 2015</title>
+      <link>http://www.sboardman.co.uk/biking/wild-boar/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/biking/wild-boar/</guid>
+      <description> Route from the 2015 Wild Boar Challenge in aid of Rothwell Lions.
+Map  </description>
+    </item>
+    
+  </channel>
+</rss>

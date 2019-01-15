@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simon Boardman</title>
+    <link>http://www.sboardman.co.uk/tags/</link>
+    <description>Recent content in Tags on Simon Boardman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.sboardman.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awk</title>
+      <link>http://www.sboardman.co.uk/tags/awk/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/awk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baking</title>
+      <link>http://www.sboardman.co.uk/tags/baking/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bike</title>
+      <link>http://www.sboardman.co.uk/tags/bike/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/bike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cx</title>
+      <link>http://www.sboardman.co.uk/tags/cx/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>http://www.sboardman.co.uk/tags/event/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://www.sboardman.co.uk/tags/git/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://www.sboardman.co.uk/tags/learning/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leeds</title>
+      <link>http://www.sboardman.co.uk/tags/leeds/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/leeds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rsync</title>
+      <link>http://www.sboardman.co.uk/tags/rsync/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/rsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sed</title>
+      <link>http://www.sboardman.co.uk/tags/sed/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/tags/sed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

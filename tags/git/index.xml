@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Simon Boardman</title>
+    <link>http://www.sboardman.co.uk/tags/git/</link>
+    <description>Recent content in Git on Simon Boardman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 12 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.sboardman.co.uk/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up a Git Repository Across a Local Network</title>
+      <link>http://www.sboardman.co.uk/bioinformatics/local-git/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/bioinformatics/local-git/</guid>
+      <description>I mostly use GitHub for distributing code I&amp;rsquo;m working on. For the odd occasion I want to distribute across a local network without using a private repository these are the steps I&amp;rsquo;ll need to use for setting up a repository.
+Overall Structure The structure I&amp;rsquo;m aiming for is as follows:
+ /local_server/repository | |--/local_desktop/repository | |--/local_laptop/repository  Where the work is done on local machines (laptop/desktop) and pushed to the local server for distribution ensuring that both local machines can access the repository easily.</description>
+    </item>
+    
+  </channel>
+</rss>

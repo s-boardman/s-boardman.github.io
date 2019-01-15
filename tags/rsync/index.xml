@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rsync on Simon Boardman</title>
+    <link>http://www.sboardman.co.uk/tags/rsync/</link>
+    <description>Recent content in Rsync on Simon Boardman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 13 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.sboardman.co.uk/tags/rsync/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>rsync tricks</title>
+      <link>http://www.sboardman.co.uk/bioinformatics/rsync-tricks/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/bioinformatics/rsync-tricks/</guid>
+      <description>Copy Directory Structure and Specific File Types I wanted to copy over some bams and maintain the directory structure (Sample/bam/Sample.bam) using rsync to preserve timestamps and ownership.
+The command I used:
+rsync -av --include=&amp;#39;*.bam*&amp;#39; --include=&amp;#39;*/&amp;#39;--exclude=&amp;#39;*&amp;#39; /path/to/Samples* ./Destination/ This copied the entire directory structure for each sample and the required bam files. I could have excluded the empty directories using --prune-empty-dirs but like to have it just in case.
+This stackexchange question was very useful.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Simon Boardman</title>
+    <link>http://www.sboardman.co.uk/categories/</link>
+    <description>Recent content in Categories on Simon Boardman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.sboardman.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biking</title>
+      <link>http://www.sboardman.co.uk/categories/biking/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/categories/biking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>http://www.sboardman.co.uk/categories/bioinformatics/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/categories/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://www.sboardman.co.uk/categories/blog/</link>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>http://www.sboardman.co.uk/categories/recipe/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sboardman.co.uk/categories/recipe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
