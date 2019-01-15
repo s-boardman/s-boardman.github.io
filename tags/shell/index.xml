@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shell on Simon Boardman</title>
-    <link>http://www.sboardman.co.uk/tags/shell/</link>
+    <link>https://s-boardman.github.io/tags/shell/</link>
     <description>Recent content in Shell on Simon Boardman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.sboardman.co.uk/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-boardman.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating Dummy Directories and Contents</title>
-      <link>http://www.sboardman.co.uk/dummy-directories-contents/</link>
+      <link>https://s-boardman.github.io/dummy-directories-contents/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/dummy-directories-contents/</guid>
+      <guid>https://s-boardman.github.io/dummy-directories-contents/</guid>
       <description>Take a source directory and make a copy of its subdirectories and contents.
 find src/ -type d -exec mkdir -p dest/{} \; \  -o -type f -exec touch dest/{} \; Use find to identify a directory (-d) under (src/) and create (mkdir -p) the contents under dest/ then (-o) find files (-f) and touch them under dest/ to make empty copies with the same name.
 Best done in the source directory, if in the destination directory you get the full file path at the start which requires a move to bring it to the right level and deletion of empty directory structure.</description>
@@ -25,20 +25,20 @@ Best done in the source directory, if in the destination directory you get the f
     
     <item>
       <title>All Things Text Manipulation</title>
-      <link>http://www.sboardman.co.uk/text-manipulation/</link>
+      <link>https://s-boardman.github.io/text-manipulation/</link>
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/text-manipulation/</guid>
+      <guid>https://s-boardman.github.io/text-manipulation/</guid>
       <description>sed Multiple Find and Replace instances in a Single Command The sed command is one of the most useful to me in day to day work. It makes text manipulation relatively easy and can be great for lossless large scale manpulations by streaming output to a separate file.
 I&amp;rsquo;m working on some copy number data I wanted to strip some leading and trailing arrows from the output of an algorithm I was testing.</description>
     </item>
     
     <item>
       <title>Setting up a Git Repository Across a Local Network</title>
-      <link>http://www.sboardman.co.uk/bioinformatics/local-git/</link>
+      <link>https://s-boardman.github.io/bioinformatics/local-git/</link>
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/bioinformatics/local-git/</guid>
+      <guid>https://s-boardman.github.io/bioinformatics/local-git/</guid>
       <description>I mostly use GitHub for distributing code I&amp;rsquo;m working on. For the odd occasion I want to distribute across a local network without using a private repository these are the steps I&amp;rsquo;ll need to use for setting up a repository.
 Overall Structure The structure I&amp;rsquo;m aiming for is as follows:
  /local_server/repository | |--/local_desktop/repository | |--/local_laptop/repository  Where the work is done on local machines (laptop/desktop) and pushed to the local server for distribution ensuring that both local machines can access the repository easily.</description>
@@ -46,10 +46,10 @@ Overall Structure The structure I&amp;rsquo;m aiming for is as follows:
     
     <item>
       <title>Useful Shell Commands</title>
-      <link>http://www.sboardman.co.uk/bioinformatics/shell-utilities/</link>
+      <link>https://s-boardman.github.io/bioinformatics/shell-utilities/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/bioinformatics/shell-utilities/</guid>
+      <guid>https://s-boardman.github.io/bioinformatics/shell-utilities/</guid>
       <description> Using Secure Copy to transfer files between networks Copy local files to remote destination:
 scp file_to_copy user@destination.ip:/destination/path Search bash history and repeat command Sometimes I want to repeat a command that I used a while ago. Often I have to Google it which is lazy. Now using this trick I can find it in my history without having to scroll through lots of entries.
 #ctrl-R (reverse-i-search)`&amp;#39;: search_term #enter to bring to current line</description>
@@ -57,10 +57,10 @@ scp file_to_copy user@destination.ip:/destination/path Search bash history and r
     
     <item>
       <title>Finding Allele Frequency from Varscan VCFs</title>
-      <link>http://www.sboardman.co.uk/varscan-frequency/</link>
+      <link>https://s-boardman.github.io/varscan-frequency/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/varscan-frequency/</guid>
+      <guid>https://s-boardman.github.io/varscan-frequency/</guid>
       <description>To pull the allele frequency for a given position use the following command:
 awk &amp;#39;{if($1==&amp;#34;chr3&amp;#34; &amp;amp;&amp;amp; $2==&amp;#34;178922324&amp;#34; &amp;amp;&amp;amp; $5==&amp;#34;A&amp;#34;) print $10}&amp;#39; /path/to/varscan/vcf | awk &amp;#39;{FS=&amp;#34;:&amp;#34;}{print $7}&amp;#39; The first awk command pulls all variants from position chr3:178922324 where the alternate allele is an A. This outputs the INFO field from the vcfs which match the conditions.
 The INFO field looks like this:
@@ -69,10 +69,10 @@ $ awk &amp;#39;{if($1==&amp;#34;chr3&amp;#34; &amp;amp;&amp;amp; $2==&amp;#34;17
     
     <item>
       <title>rsync tricks</title>
-      <link>http://www.sboardman.co.uk/bioinformatics/rsync-tricks/</link>
+      <link>https://s-boardman.github.io/bioinformatics/rsync-tricks/</link>
       <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/bioinformatics/rsync-tricks/</guid>
+      <guid>https://s-boardman.github.io/bioinformatics/rsync-tricks/</guid>
       <description>Copy Directory Structure and Specific File Types I wanted to copy over some bams and maintain the directory structure (Sample/bam/Sample.bam) using rsync to preserve timestamps and ownership.
 The command I used:
 rsync -av --include=&amp;#39;*.bam*&amp;#39; --include=&amp;#39;*/&amp;#39;--exclude=&amp;#39;*&amp;#39; /path/to/Samples* ./Destination/ This copied the entire directory structure for each sample and the required bam files. I could have excluded the empty directories using --prune-empty-dirs but like to have it just in case.

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on Simon Boardman</title>
-    <link>http://www.sboardman.co.uk/tags/learning/</link>
+    <link>https://s-boardman.github.io/tags/learning/</link>
     <description>Recent content in Learning on Simon Boardman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 24 Nov 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.sboardman.co.uk/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-boardman.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Carpentry Instructor Training</title>
-      <link>http://www.sboardman.co.uk/bioinformatics/software-carpentry-instructor-training/</link>
+      <link>https://s-boardman.github.io/bioinformatics/software-carpentry-instructor-training/</link>
       <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/bioinformatics/software-carpentry-instructor-training/</guid>
+      <guid>https://s-boardman.github.io/bioinformatics/software-carpentry-instructor-training/</guid>
       <description>This week I attended the Software Carpentry instructor training workshop hosted by Elixir UK at the University of Manchester. I&amp;rsquo;ve been on one of their courses as part of the Scientist Training Programme and learnt loads. The whole ethos of improving scientific computing for more productive science is something I want to get on board with, so becoming an instructor seemed like a good challenge, as well as a boost for the old CV.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipe on Simon Boardman</title>
-    <link>http://www.sboardman.co.uk/categories/recipe/</link>
+    <link>https://s-boardman.github.io/categories/recipe/</link>
     <description>Recent content in Recipe on Simon Boardman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 23 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.sboardman.co.uk/categories/recipe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-boardman.github.io/categories/recipe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Peanut Butter Blondies</title>
-      <link>http://www.sboardman.co.uk/recipe/peanut-butter-blondies/</link>
+      <link>https://s-boardman.github.io/recipe/peanut-butter-blondies/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/recipe/peanut-butter-blondies/</guid>
+      <guid>https://s-boardman.github.io/recipe/peanut-butter-blondies/</guid>
       <description>Continuing my theme of loving peanut butter
 Recipe Preparation Preheat the oven to 160C/180C/Gas 4. Find and grease your favourite brownie tin (approx 20cm by 20cm). Locate your cooling rack for being super prepared.
 Ingredients  200g white chocolate, coarsely chopped 50g salted peanuts, chopped (or unsalted if you like) 200g peanut butter (good quality stuff which uses sustainable palm oil) 150g caster sugar 3 eggs 100g plain flour (could use a gluten free alternative) 1tsp baking powder  Method  Get a pan of water simmering then put the PB, 3&amp;frasl;4 of the chocolate (150g), and the sugar into a heat proof bowl and stick it on top of the pan (don&amp;rsquo;t let the bowl touch the water!</description>
@@ -25,10 +25,10 @@ Ingredients  200g white chocolate, coarsely chopped 50g salted peanuts, chopped 
     
     <item>
       <title>Peanut Butter Cookies</title>
-      <link>http://www.sboardman.co.uk/recipe/peanut-butter-cookies/</link>
+      <link>https://s-boardman.github.io/recipe/peanut-butter-cookies/</link>
       <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/recipe/peanut-butter-cookies/</guid>
+      <guid>https://s-boardman.github.io/recipe/peanut-butter-cookies/</guid>
       <description>Mmm peanut butter cookies!
 Recipe Preparation Preheat the oven to 175C/155C Fan/Gas 4 and line two flat baking sheets with greaseproof paper. Locate your cooling rack for being super prepared.
 Ingredients  75g/2¾oz margarine 100g/3½oz golden caster sugar 1 large free-range egg 100g/3½oz plain flour 1 tbsp golden syrup 100g/3½oz crunchy peanut butter 1 tsp bicarbonate of soda 50g/1¾oz nuts (almonds or peanuts work well) Pinch of salt  Method  Cream together the margarine and the sugar with a wooden spoon until pale.</description>
@@ -36,10 +36,10 @@ Ingredients  75g/2¾oz margarine 100g/3½oz golden caster sugar 1 large free-ran
     
     <item>
       <title>Extremely Chocolatey Flapjacks</title>
-      <link>http://www.sboardman.co.uk/recipe/extremely-chocolatey-flapjacks/</link>
+      <link>https://s-boardman.github.io/recipe/extremely-chocolatey-flapjacks/</link>
       <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/recipe/extremely-chocolatey-flapjacks/</guid>
+      <guid>https://s-boardman.github.io/recipe/extremely-chocolatey-flapjacks/</guid>
       <description>The best flapjack I have ever eaten. I usually make a half quantity as it&amp;rsquo;s slightly less daunting to concoct.
 Recipe Preparation Preheat your oven to 140 degrees (gas 3) and line a large deepish baking tray; 10x14 inches for the full recipe.
 Ingredients Weigh out:
@@ -48,10 +48,10 @@ Ingredients Weigh out:
     
     <item>
       <title>Recipe for disaster</title>
-      <link>http://www.sboardman.co.uk/posts/2015-10-21-test-post/</link>
+      <link>https://s-boardman.github.io/posts/2015-10-21-test-post/</link>
       <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sboardman.co.uk/posts/2015-10-21-test-post/</guid>
+      <guid>https://s-boardman.github.io/posts/2015-10-21-test-post/</guid>
       <description>#This is a test!
 Oooh testing times.</description>
     </item>

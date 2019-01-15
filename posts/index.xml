@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Simon Boardman</title>
-		<link>http://www.sboardman.co.uk/posts/</link>
+		<link>https://s-boardman.github.io/posts/</link>
 		<description>Recent content in Posts on Simon Boardman</description>
 		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
+		<language>en-gb</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
-		<atom:link href="http://www.sboardman.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://s-boardman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Dirty One Thirty 2018</title>
-			<link>http://www.sboardman.co.uk/dirty-one-thirty-2018/</link>
+			<link>https://s-boardman.github.io/dirty-one-thirty-2018/</link>
 			<pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/dirty-one-thirty-2018/</guid>
+			<guid>https://s-boardman.github.io/dirty-one-thirty-2018/</guid>
 			<description>My account of the Dirty One Thirty (Diddy Dirty Reiver) from 21-04-2018.
 I&amp;rsquo;ve wanted to do some proper gravel grinding for ages. This seemed like the perfect opportunity to chase some big skies and long gravel roads as well as exploring a new part of the UK.
 {% include image.html file=&amp;ldquo;../assets/images/20180421_071755.png&amp;rdquo; description=&amp;ldquo;Awaiting the start&amp;rdquo; %}
@@ -74,10 +74,10 @@ Training did not go as planned, and there was a vague plan. Thanks to the extend
 		
 		<item>
 			<title>Peanut Butter Blondies</title>
-			<link>http://www.sboardman.co.uk/recipe/peanut-butter-blondies/</link>
+			<link>https://s-boardman.github.io/recipe/peanut-butter-blondies/</link>
 			<pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/recipe/peanut-butter-blondies/</guid>
+			<guid>https://s-boardman.github.io/recipe/peanut-butter-blondies/</guid>
 			<description>Continuing my theme of loving peanut butter
 Recipe Preparation Preheat the oven to 160C/180C/Gas 4. Find and grease your favourite brownie tin (approx 20cm by 20cm). Locate your cooling rack for being super prepared.
 Ingredients  200g white chocolate, coarsely chopped 50g salted peanuts, chopped (or unsalted if you like) 200g peanut butter (good quality stuff which uses sustainable palm oil) 150g caster sugar 3 eggs 100g plain flour (could use a gluten free alternative) 1tsp baking powder  Method  Get a pan of water simmering then put the PB, 3&amp;frasl;4 of the chocolate (150g), and the sugar into a heat proof bowl and stick it on top of the pan (don&amp;rsquo;t let the bowl touch the water!</description>
@@ -120,10 +120,10 @@ Ingredients  200g white chocolate, coarsely chopped 50g salted peanuts, chopped 
 		
 		<item>
 			<title>Creating Dummy Directories and Contents</title>
-			<link>http://www.sboardman.co.uk/dummy-directories-contents/</link>
+			<link>https://s-boardman.github.io/dummy-directories-contents/</link>
 			<pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/dummy-directories-contents/</guid>
+			<guid>https://s-boardman.github.io/dummy-directories-contents/</guid>
 			<description>Take a source directory and make a copy of its subdirectories and contents.
 find src/ -type d -exec mkdir -p dest/{} \; \  -o -type f -exec touch dest/{} \; Use find to identify a directory (-d) under (src/) and create (mkdir -p) the contents under dest/ then (-o) find files (-f) and touch them under dest/ to make empty copies with the same name.
 Best done in the source directory, if in the destination directory you get the full file path at the start which requires a move to bring it to the right level and deletion of empty directory structure.</description>
@@ -140,10 +140,10 @@ Best done in the source directory, if in the destination directory you get the f
 		
 		<item>
 			<title>Peanut Butter Cookies</title>
-			<link>http://www.sboardman.co.uk/recipe/peanut-butter-cookies/</link>
+			<link>https://s-boardman.github.io/recipe/peanut-butter-cookies/</link>
 			<pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/recipe/peanut-butter-cookies/</guid>
+			<guid>https://s-boardman.github.io/recipe/peanut-butter-cookies/</guid>
 			<description>Mmm peanut butter cookies!
 Recipe Preparation Preheat the oven to 175C/155C Fan/Gas 4 and line two flat baking sheets with greaseproof paper. Locate your cooling rack for being super prepared.
 Ingredients  75g/2¾oz margarine 100g/3½oz golden caster sugar 1 large free-range egg 100g/3½oz plain flour 1 tbsp golden syrup 100g/3½oz crunchy peanut butter 1 tsp bicarbonate of soda 50g/1¾oz nuts (almonds or peanuts work well) Pinch of salt  Method  Cream together the margarine and the sugar with a wooden spoon until pale.</description>
@@ -189,10 +189,10 @@ Ingredients  75g/2¾oz margarine 100g/3½oz golden caster sugar 1 large free-ran
 		
 		<item>
 			<title>All Things Text Manipulation</title>
-			<link>http://www.sboardman.co.uk/text-manipulation/</link>
+			<link>https://s-boardman.github.io/text-manipulation/</link>
 			<pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/text-manipulation/</guid>
+			<guid>https://s-boardman.github.io/text-manipulation/</guid>
 			<description>sed Multiple Find and Replace instances in a Single Command The sed command is one of the most useful to me in day to day work. It makes text manipulation relatively easy and can be great for lossless large scale manpulations by streaming output to a separate file.
 I&amp;rsquo;m working on some copy number data I wanted to strip some leading and trailing arrows from the output of an algorithm I was testing.</description>
 			<content type="html"><![CDATA[
@@ -239,10 +239,10 @@ awk <span class="s1">&#39;$3&#39;</span> data2.txt
 		
 		<item>
 			<title>Setting up a Git Repository Across a Local Network</title>
-			<link>http://www.sboardman.co.uk/bioinformatics/local-git/</link>
+			<link>https://s-boardman.github.io/bioinformatics/local-git/</link>
 			<pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/bioinformatics/local-git/</guid>
+			<guid>https://s-boardman.github.io/bioinformatics/local-git/</guid>
 			<description>I mostly use GitHub for distributing code I&amp;rsquo;m working on. For the odd occasion I want to distribute across a local network without using a private repository these are the steps I&amp;rsquo;ll need to use for setting up a repository.
 Overall Structure The structure I&amp;rsquo;m aiming for is as follows:
  /local_server/repository | |--/local_desktop/repository | |--/local_laptop/repository  Where the work is done on local machines (laptop/desktop) and pushed to the local server for distribution ensuring that both local machines can access the repository easily.</description>
@@ -323,10 +323,10 @@ sudo apt-get install git-all</code></pre></div>
 		
 		<item>
 			<title>Useful Shell Commands</title>
-			<link>http://www.sboardman.co.uk/bioinformatics/shell-utilities/</link>
+			<link>https://s-boardman.github.io/bioinformatics/shell-utilities/</link>
 			<pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/bioinformatics/shell-utilities/</guid>
+			<guid>https://s-boardman.github.io/bioinformatics/shell-utilities/</guid>
 			<description> Using Secure Copy to transfer files between networks Copy local files to remote destination:
 scp file_to_copy user@destination.ip:/destination/path Search bash history and repeat command Sometimes I want to repeat a command that I used a while ago. Often I have to Google it which is lazy. Now using this trick I can find it in my history without having to scroll through lots of entries.
 #ctrl-R (reverse-i-search)`&amp;#39;: search_term #enter to bring to current line</description>
@@ -346,10 +346,10 @@ scp file_to_copy user@destination.ip:/destination/path Search bash history and r
 		
 		<item>
 			<title>Finding Allele Frequency from Varscan VCFs</title>
-			<link>http://www.sboardman.co.uk/varscan-frequency/</link>
+			<link>https://s-boardman.github.io/varscan-frequency/</link>
 			<pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/varscan-frequency/</guid>
+			<guid>https://s-boardman.github.io/varscan-frequency/</guid>
 			<description>To pull the allele frequency for a given position use the following command:
 awk &amp;#39;{if($1==&amp;#34;chr3&amp;#34; &amp;amp;&amp;amp; $2==&amp;#34;178922324&amp;#34; &amp;amp;&amp;amp; $5==&amp;#34;A&amp;#34;) print $10}&amp;#39; /path/to/varscan/vcf | awk &amp;#39;{FS=&amp;#34;:&amp;#34;}{print $7}&amp;#39; The first awk command pulls all variants from position chr3:178922324 where the alternate allele is an A. This outputs the INFO field from the vcfs which match the conditions.
 The INFO field looks like this:
@@ -370,10 +370,10 @@ $ awk &amp;#39;{if($1==&amp;#34;chr3&amp;#34; &amp;amp;&amp;amp; $2==&amp;#34;17
 		
 		<item>
 			<title>Software Carpentry Instructor Training</title>
-			<link>http://www.sboardman.co.uk/bioinformatics/software-carpentry-instructor-training/</link>
+			<link>https://s-boardman.github.io/bioinformatics/software-carpentry-instructor-training/</link>
 			<pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/bioinformatics/software-carpentry-instructor-training/</guid>
+			<guid>https://s-boardman.github.io/bioinformatics/software-carpentry-instructor-training/</guid>
 			<description>This week I attended the Software Carpentry instructor training workshop hosted by Elixir UK at the University of Manchester. I&amp;rsquo;ve been on one of their courses as part of the Scientist Training Programme and learnt loads. The whole ethos of improving scientific computing for more productive science is something I want to get on board with, so becoming an instructor seemed like a good challenge, as well as a boost for the old CV.</description>
 			<content type="html"><![CDATA[
 
@@ -514,10 +514,10 @@ $ awk &amp;#39;{if($1==&amp;#34;chr3&amp;#34; &amp;amp;&amp;amp; $2==&amp;#34;17
 		
 		<item>
 			<title>Extremely Chocolatey Flapjacks</title>
-			<link>http://www.sboardman.co.uk/recipe/extremely-chocolatey-flapjacks/</link>
+			<link>https://s-boardman.github.io/recipe/extremely-chocolatey-flapjacks/</link>
 			<pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
 			
-			<guid>http://www.sboardman.co.uk/recipe/extremely-chocolatey-flapjacks/</guid>
+			<guid>https://s-boardman.github.io/recipe/extremely-chocolatey-flapjacks/</guid>
 			<description>The best flapjack I have ever eaten. I usually make a half quantity as it&amp;rsquo;s slightly less daunting to concoct.
 Recipe Preparation Preheat your oven to 140 degrees (gas 3) and line a large deepish baking tray; 10x14 inches for the full recipe.
 Ingredients Weigh out:
